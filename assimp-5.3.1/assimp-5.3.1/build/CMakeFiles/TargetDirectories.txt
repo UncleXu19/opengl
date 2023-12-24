@@ -1,0 +1,13 @@
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/CMakeFiles/uninstall.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/CMakeFiles/INSTALL.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/CMakeFiles/ALL_BUILD.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/CMakeFiles/ZERO_CHECK.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/contrib/zlib/CMakeFiles/zlibstatic.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/contrib/zlib/CMakeFiles/INSTALL.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/code/CMakeFiles/assimp.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/code/CMakeFiles/INSTALL.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/test/CMakeFiles/unit.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/test/CMakeFiles/INSTALL.dir
+D:/opengl/assimp-5.3.1/assimp-5.3.1/build/test/headercheck/CMakeFiles/INSTALL.dir
